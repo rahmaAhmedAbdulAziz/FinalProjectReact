@@ -1,0 +1,18 @@
+/* :root{
+    text-align: end;
+} */
+#header{
+    width: 100%;
+    background-color: #D4B996FF ; 
+    height: 200px;
+    /* opacity:50% */
+
+}
+#img{
+    margin-top: 7px;
+    float: left;
+    opacity: 150%;
+    /* margin-left: 100px; */
+    /* margin-right: 2200px; */
+    background-image: rgb(230, 224, 216) ; 
+}
